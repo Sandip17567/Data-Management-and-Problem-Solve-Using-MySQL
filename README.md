@@ -16,3 +16,5 @@
 
 ## Conclusion
 This project demonstrates how SQL can be used for effective data analysis and business insight generation. It highlights the importance of data cleaning, aggregation, and advanced querying techniques in understanding customer behavior and sales performance. The analysis can help businesses make data-driven decisions and improve overall strategy.
+
+At last creating a Dashboard in Power BI to Visualize the Results
